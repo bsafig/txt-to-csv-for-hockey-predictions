@@ -1,4 +1,3 @@
-Team    Wins    Points  P% RW   ROW S/OW    GF  GA  GF/GP   GA/GP   PP% PK% NetPP%  NetPK%  Shots/GP    SA/GP   FOW%
 Buffalo Sabres	53	113	0.689	38	43	10	298	238	3.63	2.9	17.4	81.4	14.3	83.4	29.5	31	51.4
 Detroit Red Wings	50	113	0.689	45	48	2	252	191	3.07	2.33	17.1	84.6	14.3	87.5	33.8	24.6	53.6
 Nashville Predators	51	110	0.671	42	45	6	266	207	3.24	2.52	17.4	85.8	16.9	87.9	27.6	31.2	50.3

@@ -1,4 +1,3 @@
-Team    Wins    Points  P% RW   ROW S/OW    GF  GA  GF/GP   GA/GP   PP% PK% NetPP%  NetPK%  Shots/GP    SA/GP   FOW%
 Boston Bruins	65	135	0.823	54	61	4	301	174	3.67	2.12	22.2	87.3	19.4	90.1	33	29.8	54.5
 Carolina Hurricanes	52	113	0.689	39	48	4	262	210	3.2	2.56	19.8	84.4	17.4	88.7	34.8	26	52.9
 New Jersey Devils	52	112	0.683	39	50	2	289	222	3.52	2.71	21.9	82.6	18.3	86.5	34.4	28.2	51.3

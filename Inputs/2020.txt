@@ -1,4 +1,3 @@
-Team    Wins    Points  P% RW   ROW S/OW    GF  GA  GF/GP   GA/GP   PP% PK% NetPP%  NetPK%  Shots/GP    SA/GP   FOW%
 Boston Bruins	44	100	0.714	38	44	0	227	167	3.24	2.39	25.2	84.3	22.1	86.6	32.1	30	51
 St. Louis Blues	42	94	0.662	33	40	2	223	190	3.14	2.68	24.3	79.3	21.3	81.8	30.7	29.6	51.6
 Tampa Bay Lightning	43	92	0.657	35	41	2	243	194	3.47	2.77	23.1	81.4	19.8	84	31.1	30.9	50.5

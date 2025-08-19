@@ -1,4 +1,3 @@
-Team    Wins    Points  P% RW   ROW S/OW    GF  GA  GF/GP   GA/GP   PP% PK% NetPP%  NetPK%  Shots/GP    SA/GP   FOW%
 Vegas Golden Knights	40	82	0.732	30	39	1	190	122	3.39	2.18	17.8	86.8	16.7	89.6	32.7	27.3	49.5
 Colorado Avalanche	39	82	0.732	35	39	0	197	132	3.52	2.36	22.7	83.1	21.3	83.6	34.6	25.4	51.6
 Carolina Hurricanes	36	80	0.714	27	32	4	175	134	3.13	2.39	25.6	85.2	22	89.2	32	28.2	53.9
